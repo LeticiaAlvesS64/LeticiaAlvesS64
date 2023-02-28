@@ -4,8 +4,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carolbarbosa101&show_icons=false&count_private=true&hide_border=false&title_color=0000FF&icon_color=ff91a4&text_color=DCDCDC&bg_color=1C1C1C" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&hide_border=false&title_color=0000FF&text_color=DCDCDC&bg_color=363636" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LeticiaAlvesS64&show_icons=false&count_private=true&hide_border=false&title_color=0000FF&icon_color=ff91a4&text_color=DCDCDC&bg_color=1C1C1C" alt="Leticia Alves github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaAlvesS64&layout=compact&hide_border=false&title_color=0000FF&text_color=DCDCDC&bg_color=363636" />
   
 -  I’m currently learning Python
   
