@@ -1,6 +1,6 @@
  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=696969&size=25&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Leticia+Alves;I+am+17+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=696969&size=25&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Leticia+Alves;I+am+17+years+old;I'm+from+Brazil;I+am+a+Data+Science+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
